@@ -68,6 +68,8 @@ A simple example is that you can only create and operate virtual machines if you
 
 ![Cloud Service](https://user-images.githubusercontent.com/43508820/73141851-891d8600-4056-11ea-83c8-8bc1d0c7bf57.JPG)
 
+![Cloud Service1](https://user-images.githubusercontent.com/43508820/73141987-b9195900-4057-11ea-9402-f8034655e37e.JPG)
+
 #	Post a screenshot of a lab where you had difficulty with a concept or learned something.
 
 I was able to complete the assignment easily and the vm instance created by terraform as mentioned in the configuration file. One thing I noticed is we need to use nano editor to edit the file in Cloud Shell. 
