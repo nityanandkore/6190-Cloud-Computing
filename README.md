@@ -2,7 +2,7 @@
 
 This repository contains all the work done for course - 6190- Cloud Computing
 
-## Discussion 1
+## Discussion 1 (https://github.com/nityanandkore/6190-Cloud-Computing/blob/master/Discussion%201.md)
 
 * What are the problems solved economically by cloud computing vs traditional infrastructure?
 
