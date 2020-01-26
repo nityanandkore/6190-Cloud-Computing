@@ -2,7 +2,7 @@
 
 This repository contains all the work done for course - 6190- Cloud Computing
 
-## [Discussion 1](https://github.com/nityanandkore/6190-Cloud-Computing/blob/master/Discussion%201.md)
+## [Discussion 1](https://github.com/nityanandkore/6190-Cloud-Computing/blob/master/Discussion-1.md)
 
 * What are the problems solved economically by cloud computing vs traditional infrastructure?
 
@@ -12,7 +12,7 @@ This repository contains all the work done for course - 6190- Cloud Computing
 
 *	Post a screenshot of a lab where you had difficulty with a concept or learned something. 
 
-## [Discussion 2](https://github.com/nityanandkore/6190-Cloud-Computing/blob/master/Discussion%202.md)
+## [Discussion 2](https://github.com/nityanandkore/6190-Cloud-Computing/blob/master/Discussion-2.md)
 
 * What is IAC and what problem does it solve?
 
