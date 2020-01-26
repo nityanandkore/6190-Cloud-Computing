@@ -19,6 +19,11 @@ Organization doesn’t need to worry about any maintenance as the cloud provider
 
 I have completed GCP Essentials Qwiklabs successfully. I had some problems while completing section 2. Even after completing it still it was not marking it completed. So had to do another part of it. Not sure if anyone else faced this issue. But overall it was good learning. 
 
+![Part2_Error](https://user-images.githubusercontent.com/43508820/73138017-054ea400-402c-11ea-9aaf-fab00776e2b5.jpg)
+
+![Part2](https://user-images.githubusercontent.com/43508820/73138021-097ac180-402c-11ea-8cd2-fe4f673888b4.jpg)
+
+![Completion](https://user-images.githubusercontent.com/43508820/73138024-0da6df00-402c-11ea-88ad-2abbe8cc840e.jpg)
 
 
 # Citation:
