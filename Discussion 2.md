@@ -65,6 +65,9 @@ A simple example is that you can only create and operate virtual machines if you
 
 # How should a company decide on what level of cloud abstraction to use for a project: SaaS, PaaS, IaaS, MaaS, Serverless?
 
+
+![Cloud Service](https://user-images.githubusercontent.com/43508820/73141851-891d8600-4056-11ea-83c8-8bc1d0c7bf57.JPG)
+
 #	Post a screenshot of a lab where you had difficulty with a concept or learned something.
 
 I was able to complete the assignment easily and the vm instance created by terraform as mentioned in the configuration file. One thing I noticed is we need to use nano editor to edit the file in Cloud Shell. 
