@@ -70,6 +70,7 @@ A simple example is that you can only create and operate virtual machines if you
 I was able to complete the assignment easily and the vm instance created by terraform as mentioned in the configuration file. One thing I noticed is we need to use nano editor to edit the file in Cloud Shell. 
 I tried to use VI editor but it didn’t work to update and save the file. Here is the lab completion:
 
+![Course Completion](https://user-images.githubusercontent.com/43508820/73141779-ff6db880-4055-11ea-84a7-2ce20b61caa4.JPG)
 
 
 ### Citation:
