@@ -65,6 +65,13 @@ A simple example is that you can only create and operate virtual machines if you
 
 # How should a company decide on what level of cloud abstraction to use for a project: SaaS, PaaS, IaaS, MaaS, Serverless?
 
+Use of SaaS applications tends to reduce the cost of software ownership by removing the need for technical staff to manage install, manage, and upgrade software, as well as reduce the cost of licensing software. SaaS applications are usually provided on a subscription model.
+
+As with most cloud services, PaaS is built on top of virtualization technology. Businesses can requisition resources as they need them, scaling as demand grows, rather than investing in hardware with redundant resources.
+Examples of PaaS providers include Heroku, Google App Engine, and Red Hat’s OpenShift.
+
+IaaS is the most flexible cloud computing model and allows for automated deployment of servers, processing power, storage, and networking. IaaS clients have true control over their infrastructure than users of PaaS or SaaS services. The main uses of IaaS include the actual development and deployment of PaaS, SaaS, and web-scale applications.
+
 
 ![Cloud Service](https://user-images.githubusercontent.com/43508820/73141851-891d8600-4056-11ea-83c8-8bc1d0c7bf57.JPG)
 
@@ -80,4 +87,6 @@ I tried to use VI editor but it didn’t work to update and save the file. Here 
 
 ### Citation:
 https://www.bmc.com/blogs/infrastructure-as-code/
+https://www.computenext.com/blog/when-to-use-saas-paas-and-iaas/
+
 
