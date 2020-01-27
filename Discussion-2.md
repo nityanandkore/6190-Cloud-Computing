@@ -32,36 +32,38 @@ To summarize, in the past several man-hours and human resources were required to
 
 Some of the major benefits of Infrastructure as Code are:
 
-•	Reducing Shadow IT – Much of the shadow IT within organizations is due to the inability of IT departments to provide satisfactory and timely answers to operational areas concerning IT infrastructure and systems enhancements. Shadow IT poses significant security risks as well as potential unforeseen costs for the organization. Enabling a fast response to new IT requirements through IaC assisted deployment not only assures higher security and compliance with corporate IT standards, but is also helpful with budgeting and cost allocation.
+•	<b>Reducing Shadow IT</b> – Much of the shadow IT within organizations is due to the inability of IT departments to provide satisfactory and timely answers to operational areas concerning IT infrastructure and systems enhancements. Shadow IT poses significant security risks as well as potential unforeseen costs for the organization. Enabling a fast response to new IT requirements through IaC assisted deployment not only assures higher security and compliance with corporate IT standards, but is also helpful with budgeting and cost allocation.
 
-•	Improving Customer Satisfaction – Being able to deliver a quality service component within a short period of time contributes to customer satisfaction and improved perception of IT within an organization (as measured by Net Promoter Score or other method).
+•	<b>Improving Customer Satisfaction</b> – Being able to deliver a quality service component within a short period of time contributes to customer satisfaction and improved perception of IT within an organization (as measured by Net Promoter Score or other method).
 
-•	OPEX reduction – If a company can configure and deploy a fully tested and compliant new IT Infrastructure asset within a matter of minutes either with minimal or even no human intervention, this represents a colossal saving in work time and security-related financial risk potential.
+•	<b>OPEX reduction</b> – If a company can configure and deploy a fully tested and compliant new IT Infrastructure asset within a matter of minutes either with minimal or even no human intervention, this represents a colossal saving in work time and security-related financial risk potential.
 
-•	CAPEX reduction – Being able to have a developer accomplish on her own the tasks of several team members, particularly in the context of DevOps, will significantly improve the project CAPEX.
+•	<b>CAPEX reduction</b> – Being able to have a developer accomplish on her own the tasks of several team members, particularly in the context of DevOps, will significantly improve the project CAPEX.
 
-•	Standardization – When the creation of new infrastructure is coded there is the assurance of a consistent set of instructions and standardization. Manual configurations are prone to errors and minor changes which can create ever so slight differences that over time represent major nonconformities with the standard (and technical debt).
+•	<b>Standardization</b> – When the creation of new infrastructure is coded there is the assurance of a consistent set of instructions and standardization. Manual configurations are prone to errors and minor changes which can create ever so slight differences that over time represent major nonconformities with the standard (and technical debt).
 
-•	Safer Change Management – Standardization assurance enables safer changes to take place, with lower deviation rates.
+•	<b>Safer Change Management</b> – Standardization assurance enables safer changes to take place, with lower deviation rates.
 
-•	Application of Software Delivery Principles – Ability to promote and use Software Delivery principles, such as version control, peer programming, and code reviews to Infrastructure results in fewer un-planned outages and better change history tracking.
+•	<b>Application of Software Delivery Principles</b> – Ability to promote and use Software Delivery principles, such as version control, peer programming, and code reviews to Infrastructure results in fewer un-planned outages and better change history tracking.
 
-•	Scalable and Immutable Infrastructure – Provides the ability for additional resources to be provisioned during burst periods allowing horizontal scaling and the ability to replace resources in the event of failure.
+• <b>Scalable and Immutable Infrastructure</b> – Provides the ability for additional resources to be provisioned during burst periods allowing horizontal scaling and the ability to replace resources in the event of failure.
 
 ### Risks Involved with Infrastructure as Code
 
 There is some risk that needs to be accounted for:
 
-•	Missing proper planning – Once a company decides to move towards having an IaC capable IT Landscape in place, there is the mandatory need to define Infrastructure that will allow the implementation, configuration, and operation of IaC tools.
+•	<b>Missing proper planning</b> – Once a company decides to move towards having an IaC capable IT Landscape in place, there is the mandatory need to define Infrastructure that will allow the implementation, configuration, and operation of IaC tools.
 A simple example is that you can only create and operate virtual machines if you have in place a physical server infrastructure that can run a tool like VMware and is powerful and scalable enough (CPU, RAM, HDD) to support several heavy demanding simultaneous virtual machines running in parallel without any performance impact, plus redundancy that allows all to continue working within normal operational standards if problems occur.
 
-•	IaC requires new skills – Most existing IaC tools require expertise to be handled, and reaching such levels requires significant time in learning and training. Some companies are likely to start by resorting to outsourcing services until the tools become more user-friendly, staff is trained on the new tools, or new experts are brought on to the team.
+•	<b>IaC requires new skills</b> – Most existing IaC tools require expertise to be handled, and reaching such levels requires significant time in learning and training. Some companies are likely to start by resorting to outsourcing services until the tools become more user-friendly, staff is trained on the new tools, or new experts are brought on to the team.
 
-•	Error replication – Since the initial code is developed by humans, there is always the chance that it contains minor errors that will only produce impact after some time. The problem here is that meanwhile, several machines may have been automatically created where such errors exist. So there is the need for applying a solid auditing process to the creation of IaC generating code.
+•	<b>Error replication</b> – Since the initial code is developed by humans, there is always the chance that it contains minor errors that will only produce impact after some time. The problem here is that meanwhile, several machines may have been automatically created where such errors exist. So there is the need for applying a solid auditing process to the creation of IaC generating code.
 
-•	Configuration Drift – Once a machine is created via an IaC workflow, it should not suffer intervention outside of an automated, aligned, and compliant maintenance workflow. Manual or external updates (even if just security patching) may result in configuration drifting which in time has the potential of producing massive non-compliance or even service failure.
+•	<b>Configuration Drift</b> – Once a machine is created via an IaC workflow, it should not suffer intervention outside of an automated, aligned, and compliant maintenance workflow. Manual or external updates (even if just security patching) may result in configuration drifting which in time has the potential of producing massive non-compliance or even service failure.
 
-•	Accidental Destruction – Some IaC tools that maintain state have the ability to automatically destroy resources should the code reflect that action. IaC in an automation pipeline can sometimes have undesired outcomes.
+•	<b>Accidental Destruction</b> – Some IaC tools that maintain state have the ability to automatically destroy resources should the code reflect that action. IaC in an automation pipeline can sometimes have undesired outcomes.
+
+<hr>
 
 # How should a company decide on what level of cloud abstraction to use for a project: SaaS, PaaS, IaaS, MaaS, Serverless?
 
@@ -77,6 +79,8 @@ IaaS is the most flexible cloud computing model and allows for automated deploym
 
 ![Cloud Service1](https://user-images.githubusercontent.com/43508820/73141987-b9195900-4057-11ea-9402-f8034655e37e.JPG)
 
+<hr>
+
 #	Post a screenshot of a lab where you had difficulty with a concept or learned something.
 
 I was able to complete the assignment easily and the vm instance created by terraform as mentioned in the configuration file. One thing I noticed is we need to use nano editor to edit the file in Cloud Shell. 
@@ -84,6 +88,7 @@ I tried to use VI editor but it didn’t work to update and save the file. Here 
 
 ![Course Completion](https://user-images.githubusercontent.com/43508820/73141779-ff6db880-4055-11ea-84a7-2ce20b61caa4.JPG)
 
+<hr>
 
 ### Citation:
 https://www.bmc.com/blogs/infrastructure-as-code/
