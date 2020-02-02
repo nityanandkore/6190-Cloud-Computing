@@ -1,5 +1,4 @@
 # What are the different layers of network security on AWS and what unique problems do each solve?
- *In progress*
  
  The AWS network has been architected to permit you to select the level of security
 and resiliency appropriate for your workload. To enable you to build geographically
@@ -26,8 +25,10 @@ Many services (like S3, Redshift and others) provide the ability to turn on logg
 
 # What problem do AWS Spot instances solve and how could you use them in your projects?
 
-*In progress*
+Spot instances, next to On-demand and Reserved instances are another financial model for your EC2 workloads. With On-demand, you pay a fixed hourly price per instance. With Reserved instances, you’re able to reduce your EC2 cost by around 30-40% in exchange for a 1 or 3 year commitment to AWS. While Reserved instances bring you a significant discount compared to On-demand, you are tied into this commitment. If AWS reduces their prices or introduces new instance types that are cheaper, your savings could end up lower and you’ll still be paying for your Reserved instances until the end of the commitment.
+
+Spot instances work on a supply and demand model, meaning AWS takes advantage of unused instance capacity, giving you the opportunity to save as much as 90% compared to the On-demand cost.
 
 # Post a screenshot of a lab where you had difficulty with a concept or learned something.
 
-*In progress*
+I have completed the lab mentioned for this week.
