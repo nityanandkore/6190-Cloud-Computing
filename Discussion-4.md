@@ -18,3 +18,16 @@ The users can achieve more resources through the container in cloud computing. B
 The containers deduct the dependencies and conflicts between the cross-service and thus the productivity increases. The component of the program is segregated into different entities that run a separate micro-service. There is no worry about the libraries and dependencies that are being synced for each service because the containers are isolated from each other. Each service can be upgraded independently as they are not in touch with each other.
 
 # What is the relationship between Kubernetes and containers?
+
+Kubernetes is an open source container orchestration platform, allowing large numbers of containers to work together in harmony, reducing operational burden. It helps with things like:
+
+*Running containers across many different machines*
+
+*Scaling up or down by adding or removing containers when demand changes*
+
+*Keeping storage consistent with multiple instances of an application*
+
+*Distributing load between the containers*
+
+*Launching new containers on different machines if something fails*
+
