@@ -36,3 +36,12 @@ This repository contains all the work done for course - 6190- Cloud Computing
 * What problem do containers solve?
 
 * What is the relationship between Kubernetes and containers?
+
+## [Discussion 5](https://github.com/nityanandkore/6190-Cloud-Computing/blob/master/Discussion-5.md) 
+
+* How does the CAP Theorem play a role in designing for the cloud?
+
+* What are the implications of Amdahl’s law for Machine Learning projects?
+
+* Post a screenshot of a lab where you had difficulty with a concept or learned something.
+
