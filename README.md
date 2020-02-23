@@ -45,3 +45,10 @@ This repository contains all the work done for course - 6190- Cloud Computing
 
 * Post a screenshot of a lab where you had difficulty with a concept or learned something.
 
+## [Discussion 6](https://github.com/nityanandkore/6190-Cloud-Computing/blob/master/Discussion-6.md) 
+
+* How could ASICs play an important role in Machine Learning going forward?
+
+* Find, run and extend a notebook in seedbank and share along with your comments on what you learned.
+
+
