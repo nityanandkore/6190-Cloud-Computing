@@ -28,3 +28,9 @@ Reference: http://www.moorinsightsstrategy.com/will-asic-chips-become-the-next-b
 
 # Find, run and extend a notebook in seedbank and share along with your comments on what you learned.
 
+Tried "First Step with Tensor Flow" Colab seebank project. Amazing experiecne learning new concept of tensorflow. I will research more and try to be pro in that.
+
+https://colab.research.google.com/notebooks/mlcc/first_steps_with_tensor_flow.ipynb#scrollTo=T3zmldDwYy5c
+
+
+
