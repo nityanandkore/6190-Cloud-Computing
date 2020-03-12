@@ -23,14 +23,20 @@ Because of the growing variety and volume of data, data lakes are an emerging an
 Advantages:
 
 Ability to derive value from unlimited types of data  
-Ability to store all types of structured and unstructured data in a data lake, from CRM data to social media posts
-More flexibility—you don’t have to have all the answers up front
-Ability to store raw data—you can refine it as your understanding and insight improves
-Unlimited ways to query the data
-Application of a variety of tools to gain insight into what the data means
-Elimination of data silos
-Democratized access to data via a single, unified view of data across the organization when using an effective data management platform
 
+Ability to store all types of structured and unstructured data in a data lake, from CRM data to social media posts
+
+More flexibility—you don’t have to have all the answers up front
+
+Ability to store raw data—you can refine it as your understanding and insight improves
+
+Unlimited ways to query the data
+
+Application of a variety of tools to gain insight into what the data means
+
+Elimination of data silos
+
+Democratized access to data via a single, unified view of data across the organization when using an effective data management platform
 
 # Post a screenshot of a lab where you had difficulty with a concept or learned something.
 
