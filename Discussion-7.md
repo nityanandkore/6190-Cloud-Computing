@@ -28,4 +28,11 @@ One of the more interesting, but exceptionally useful aspects of BigQuery is its
 BigQuery can quickly optimize the way you query and compute your data, reducing your dependence on costly servers and fixed-price systems. However, while it’s certainly powerful, if you want to draw out truly useful BI insights or to build interactive dashboards, you’ll need to integrate Google BigQuery with additional tools like a BI platform.
 
 # What problem does a “serverless” database like Athena solve?
+
+Amazon’s query services, sophisticated data processing, and data warehouses all address different needs. Athena, for instance, is a great tool for running ad-hoc queries on smaller datasets. It’s also a good choice for companies with complex types of data – struts, maps, and arrays. 
+
+Amazon Redshift, an Amazon data warehouse, provides fast query performance for workloads that involve complex Structured Query Language with subqueries and multiple joins. Amazon Elastic MapReduce (EMR), a sophisticated data processing service, is a cost-effective option for running highly distributed frameworks such as Presto, Spark, and Hadoop when compared to on-premises software.
+
 # Post a screenshot of a lab where you had difficulty with a concept or learned something.
+
+Completed BigQuery Qwicklabs successfully and learned how to use it.
