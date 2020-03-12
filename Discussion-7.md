@@ -7,11 +7,11 @@ Social networking and Big Data organizations such as Facebook, Yahoo, Google, an
 
 # How could a service like Google BigQuery change the way you deal with Data?
 
-## Its Flexible Architecture Speeds Up Queries##
+## Its Flexible Architecture Speeds Up Queries ##
 
 Instead of operating across multiple compute clusters and requiring individual management of each, BigQuery distributes its computing resources dynamically, decreasing both the time it takes to scan through data and the cost of building a system. Instead of being stuck with rigid structures that are designed around multiple compute clusters, you can quickly distribute your computing power where it’s needed most. Moreover, BigQuery’s “serverless” build, a fully on-cloud design that prioritizes scalability and quickness in queries, means that you can easily scale and perform ad hoc analyses much faster than you would on cloud-based server structures. Even better, its decentralized design means it can perform these queries and derive insights from datasets that stretch into petabyte scale.
 
-## It Offers a Scale-Friendly Pricing Structure##
+## It Offers a Scale-Friendly Pricing Structure ##
 
 Tied to its unique serverless design, BigQuery offers a variety of pricing options that are friendlier to small businesses and those companies that experience evolving analytics needs. Instead of charging for server space and set prices for customized plans, BigQuery’s models are based on computing power and needs. The platform makes it significantly easier to configure and start running new instances without having to pay the cost of full servers.Alternatively, BigQuery’s pricing structure is based on computing demand and resource allocation. Users can set the resources they need on a per-second basis. More impressively, the platform also promises 100% resource utilization, meaning you only pay exactly for the computing power you’re using, in lieu of having to overpay based on fixed models. For small businesses, the model delivers the benefit of being highly elastic and scalable, so you can deploy the resources you need based on the task at hand without worrying about the cost of scaling back down.
 
@@ -23,7 +23,7 @@ When performing ad-hoc analysis and deriving real-time insights, using data that
 
 One of the more interesting, but exceptionally useful aspects of BigQuery is its ability to optimize your storage and datasets in the background. The platform utilizes Capacitor, a storage format, and system that uses AI to continuously evaluate data storage. Once it detects patterns, BigQuery will use them to optimize datasets into structures that are better suited to the types of analytics and queries users are performing regularly.Capacitor is fully transparent and automated, so it handles these processes on its own, but it always informs users of what is happening. The result is a platform that makes your queries faster as you make more queries thanks to machine learning algorithms. This also combines with BigQuery’s fully managed stack and its caching tools, which let users perform a free query if they’ve previously carried it out within the past 24 hours. All told, it reduces costs every 90 days, dropping storage prices nearly 50%.
 
-## Choose the Right Tools for your BI##
+## Choose the Right Tools for your BI ##
 
 BigQuery can quickly optimize the way you query and compute your data, reducing your dependence on costly servers and fixed-price systems. However, while it’s certainly powerful, if you want to draw out truly useful BI insights or to build interactive dashboards, you’ll need to integrate Google BigQuery with additional tools like a BI platform.
 
