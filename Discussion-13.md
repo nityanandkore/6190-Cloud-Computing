@@ -11,7 +11,8 @@ In addition, edge-based ML has been shown to enhance the privacy and security of
 
 The table below describes some of the most popular ML frameworks that run on edge devices. Most of these frameworks provide pre-trained models for speech recognition, object detection, natural language processing (NLP), and image recognition and classification, among others. They also give the option to the data scientist to leverage transfer learning or start from scratch and develop a custom ML model.
 
-https://user-images.githubusercontent.com/43508820/79604754-ae052080-80bc-11ea-8c05-94f961d26a68.png
-
+![image](https://user-images.githubusercontent.com/43508820/79604754-ae052080-80bc-11ea-8c05-94f961d26a68.png)
 
 # Post a screenshot of a lab where you had difficulty with a concept or learned something.** **
+
+-- In Progress
