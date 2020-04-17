@@ -51,4 +51,17 @@ This repository contains all the work done for course - 6190- Cloud Computing
 
 * Find, run and extend a notebook in seedbank and share along with your comments on what you learned.
 
+## [Discussion 7](https://github.com/nityanandkore/6190-Cloud-Computing/blob/master/Discussion-7.md) 
+
+## [Discussion 8](https://github.com/nityanandkore/6190-Cloud-Computing/blob/master/Discussion-8.md) 
+
+## [Discussion 9](https://github.com/nityanandkore/6190-Cloud-Computing/blob/master/Discussion-9.md) 
+
+## [Discussion 10](https://github.com/nityanandkore/6190-Cloud-Computing/blob/master/Discussion-10.md) 
+
+## [Discussion 11](https://github.com/nityanandkore/6190-Cloud-Computing/blob/master/Discussion-11.md) 
+
+## [Discussion 12](https://github.com/nityanandkore/6190-Cloud-Computing/blob/master/Discussion-12.md) 
+
+## [Discussion 13](https://github.com/nityanandkore/6190-Cloud-Computing/blob/master/Discussion-13.md) 
 
